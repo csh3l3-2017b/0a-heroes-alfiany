@@ -1,20 +1,20 @@
 name,role
 Layla,MARKSMAN
 Cyclops,MAGE
-Minotaur,FIGHTER
+Minotaur,TANK
 Saber,ASSASSIN
 Roger,FIGHTER
 Nana,SUPPORT
 Akai,FIGHTER
 Alice,SUPPORT
-Alpha,FIGHTER
+Alpha,ASSASSIN
 Alucard,FIGHTER
-Argus,FIGHTER
+Argus,ASSASSIN
 Aurora,MAGE
 Balmond,FIGHTER
 Bane,FIGHTER
 Bruno,SUPPORT
-Chou,FIGHTER
+Chou,ASSASSIN
 Clint,ASSASSIN
 Diggie,SUPPORT
 Estes,MAGE
@@ -24,14 +24,14 @@ Franco,TANK
 Freya,FIGHTER
 Gatotkaca,FIGHTER
 Gord,MAGE
-Grock,FIGHTER
+Grock,ASSASSIN
 Harley,SUPPORT
 Hayabusa,SUPPORT
-Helcur,FIGHTER
-Hilda,FIGHTER
+Helcur,ASSASSIN
+Hilda,ASSASSIN
 Hylos,FIGHTER
 Irithel,SUPPORT
-Johnson,FIGHTER
+Johnson,TANK
 Kagura,MAGE
 Karina,ASSASSIN
 Karrie,SUPPORT
@@ -46,7 +46,7 @@ Pharsa,SUPPORT
 Rafaela,MAGE
 Ruby,FIGHTER
 Sun Wukong,FIGHTER
-Tigreal,FIGHTER
+Tigreal,TANK
 Vexana,SUPPORT
 Yi Sun-Shin,SUPPORT
 Yun Zhao,MARKSMAN
